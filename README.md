@@ -4,7 +4,6 @@
 - 🌐 Multilingual: Fluent in English, German, and Arabic
 - 🌱 I’m currently learning full stack development.
 - 🧠 Certifications: IBM Data Science Professional, ITIL® Foundation in IT Service Management
-- 💻 Skills: Data Science, AI, Machine Learning, Python, SQL, Cloud Computing, Web Development (HTML, CSS, JavaScript, React), Version Control (Git, GitHub)
 - 👨‍💻 In pursuit of knowledge and excellence in the field of Computer Science and Data Science
 - 👨🏾‍ LinkedIn - https://www.linkedin.com/in/bgrnaymane
 - 😄 Let's connect!
