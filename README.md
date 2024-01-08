@@ -2,4 +2,4 @@
 - 👀 I’m interested in learning new tools, frameworks, and technologies and creating cool and interesting applications with them.
 - 🌱 I’m currently learning full stack development.
 - 👨🏾‍ LinkedIn - https://www.linkedin.com/in/bgrnaymane
-- 😄 Lets connect!
+- 😄 Let's connect!
