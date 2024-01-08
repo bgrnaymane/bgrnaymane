@@ -3,7 +3,6 @@
 - 🎓 CS Master's Student @ Technical University of Darmstadt | Data Science & Engineering Focus
 - 🌐 Multilingual: Fluent in English, German, and Arabic
 - 🌱 I’m currently learning full stack development.
-- 🧠 Certifications: IBM Data Science Professional, ITIL® Foundation in IT Service Management
 - 👨‍💻 In pursuit of knowledge and excellence in the field of Computer Science and Data Science
 - 👨🏾‍ LinkedIn - https://www.linkedin.com/in/bgrnaymane
 - 😄 Let's connect!
