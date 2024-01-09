@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Aymane.
-- 🎂 22 Years Young
+- 🎂 22 Years 
 - 🎓 CS Master's Student @ Technical University of Darmstadt | Data Science & Engineering Focus
 - 🌐 Multilingual: Fluent in English, German, and Arabic
 - 🌱 I’m currently learning full stack development.
