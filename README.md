@@ -2,7 +2,7 @@
 - 🎂 22 Years 
 - 🎓 CS Master's Student @ Technical University of Darmstadt | Data Science & Engineering Focus
 - 🌐 Multilingual: Fluent in English, German, and Arabic
-- 🌱 I’m currently learning full stack development.
+- 💡 I thrive on software engineering, cloud tech, and the intersection of tech and business strategy. 
 - 👨‍💻 In pursuit of knowledge and excellence in the field of Computer Science and Data Science
 - 👨🏾‍ LinkedIn - https://www.linkedin.com/in/bgrnaymane
 - 😄 Let's connect!
